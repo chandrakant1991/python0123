@@ -75,7 +75,8 @@ print(none_datatype, type(none_datatype), id(none_datatype))
 
 # 5 list variables
 
-
+list_1 = ['teju', 'vishrantwadi', 9036678481]
+print(list_1)
 
 
 
